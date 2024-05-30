@@ -1,0 +1,14 @@
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\bin\Debug\net6.0\CalculateScore.exe
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\bin\Debug\net6.0\CalculateScore.deps.json
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\bin\Debug\net6.0\CalculateScore.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\bin\Debug\net6.0\CalculateScore.dll
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\bin\Debug\net6.0\CalculateScore.pdb
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\obj\Debug\net6.0\CalculateScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\obj\Debug\net6.0\CalculateScore.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\obj\Debug\net6.0\CalculateScore.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\obj\Debug\net6.0\CalculateScore.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\obj\Debug\net6.0\CalculateScore.dll
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\obj\Debug\net6.0\refint\CalculateScore.dll
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\obj\Debug\net6.0\CalculateScore.pdb
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\obj\Debug\net6.0\CalculateScore.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\OneDrive\Desktop\CalculateScore\obj\Debug\net6.0\ref\CalculateScore.dll
